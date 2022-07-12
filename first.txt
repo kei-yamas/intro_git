@@ -2,3 +2,6 @@ GITの練習
 
 基本的ななんちゃらかんちゃら
 
+・git add
+・git commit
+
