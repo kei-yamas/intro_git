@@ -5,4 +5,5 @@ GITの練習
 ・git add
 ・git commit
 ・git remove
+・git status
 
